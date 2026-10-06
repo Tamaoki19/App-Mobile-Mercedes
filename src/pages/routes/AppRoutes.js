@@ -10,11 +10,11 @@ import {
 
 import { Feather } from "@expo/vector-icons";
 
-import LoginScreen from "../pages/Login";
-import CadastroScreen from "../pages/Cadastro";
-import SplashScreen from "../pages/SplashPage";
-import Home from "../pages/Home";
-import Calendar from "../pages/Calendar";
+import LoginScreen from "../Login";
+import CadastroScreen from "../Cadastro";
+import SplashScreen from "../SplashPage";
+import Home from "../Home";
+import Calendar from "../Cadastro";
 
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
